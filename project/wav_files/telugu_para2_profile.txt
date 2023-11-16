@@ -1,6 +1,6 @@
 Prosodic profile for input file: ./wav_files/telugu_para2.wav
 Prosogram version: Prosogram v2.20a, (c) Piet Mertens
-Date (of analysis): Thu Nov 16 12:10:50 2023
+Date (of analysis): Thu Nov 16 23:06:35 2023
 
 Segmentation type: asyll
 Nucleus: 299 nuclei in signal
