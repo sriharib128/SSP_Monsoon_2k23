@@ -1,1 +1,0 @@
-python3 extract_pitch.py ./wave_files/mkb_14_data.txt ./wave_files/mkb_14_profile_data.txt
